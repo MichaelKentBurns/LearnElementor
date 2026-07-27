@@ -92,6 +92,11 @@ if ( ! defined( 'WP_DEBUG' ) ) {
 }
 
 define( 'WP_ENVIRONMENT_TYPE', 'local' );
+define('WPFC_CLEAR_CACHE_AFTER_THEME_UPDATE', true);
+define('WP_MEMORY_LIMIT', '768M');
+define('WP_MAX_MEMORY_LIMIT', '768M');
+
+define('WPFC_CLEAR_CACHE_AFTER_PLUGIN_UPDATE', true);
 /* That's all, stop editing! Happy publishing. */
 
 /** Absolute path to the WordPress directory. */
