@@ -1,0 +1,131 @@
+<h1>Contact.</h1>							<ul>
+							<li>
+											<a href="https://solacewp.com/webcrafters/">
+											Home
+											</a>
+									</li>
+								<li>
+										/
+									</li>
+								<li>
+										Contact
+									</li>
+						</ul>
+																	<img width="1844" height="1037" src="http://localhost:10073/wp-content/uploads/2026/07/desk-with-multiple-computer-monitors-displaying-ne-PMBWC2A.jpg" alt="" />																<h3>Have a question?</h3>					<h2>Send us a message.</h2>				
+		<form method="post" data-post_id="" data-el_id="604c90f1" enctype="multipart/form-data">
+									<label>Name</label>
+						<input
+										name="name"
+													get_label="Name"
+								type="text"
+				class="solaceform-input  solaceform-style-field"
+				placeholder=""
+										accept=&quot;&quot;			>
+									<label>Email</label>
+						<input
+										name="email"
+													get_label="Email"
+								type="email"
+				class="solaceform-input  solaceform-style-field"
+				placeholder=""
+										accept=&quot;&quot;			>
+									<label>Message</label>
+						<textarea
+				name="msg"
+				class="solaceform-input  solaceform-style-field"
+				rows="4"
+				placeholder=""
+							get_label="Message"
+										></textarea>
+				<button type="submit" id="">
+							Send						
+				</button>
+		</form>
+		<style>
+			.solaceform-container {
+				display: flex;
+				flex-wrap: wrap;
+				width: 100%;
+			}
+			.solaceform-field-column,
+			.solaceform-button-column,
+			.solaceform-input,
+			.submit-button {
+				box-sizing: border-box;
+			}
+			.solaceform-input,
+			.submit-button {
+				width: 100%;
+				white-space: nowrap;
+			}
+		</style>
+							<h5>New Jersey</h5>							<ul>
+							<li>
+											<a href="#">
+											1428 Callison Lane Building 201 Virginia, VA 22902
+											</a>
+									</li>
+								<li>
+											<a href="#">
+											hello@yourwebsite.com
+											</a>
+									</li>
+								<li>
+											<a href="#">
+											+1.555.897.1234
+											</a>
+									</li>
+						</ul>
+							<h5>Los Angeles</h5>							<ul>
+							<li>
+											<a href="#">
+											Via Venezia 118 San Giacomo D Cosenza 87040
+											</a>
+									</li>
+								<li>
+											<a href="#">
+											hello@yourwebsite.com
+											</a>
+									</li>
+								<li>
+											<a href="#">
+											1.878.459.222
+											</a>
+									</li>
+						</ul>
+							<h5>We are trusted by more than 5973 world-class companies</h5>															<img width="2284" height="973" src="http://localhost:10073/wp-content/uploads/2026/07/new-logocarousel-2.png" alt="" />																										<img width="2284" height="973" src="http://localhost:10073/wp-content/uploads/2026/07/new-logocarousel-6.png" alt="" />																										<img width="2284" height="973" src="http://localhost:10073/wp-content/uploads/2026/07/new-logocarousel-3.png" alt="" />																										<img width="2284" height="973" src="http://localhost:10073/wp-content/uploads/2026/07/new-logocarousel-1.png" alt="" />																										<img width="2284" height="973" src="http://localhost:10073/wp-content/uploads/2026/07/new-logocarousel-5.png" alt="" />																										<img width="2284" height="973" src="http://localhost:10073/wp-content/uploads/2026/07/new-logocarousel.png" alt="" />																Our Locations					<h2>Find some of our locations.</h2>							
+									<h5>
+							New York, NY						
+					</h5>
+									<p>
+						123 Main Street, Suite 101
+<br>
+(206) 123-4567					</p>
+												<a href="#">
+									Get directions
+					</a>
+									<h5>
+							Los Angeles, CA						
+					</h5>
+									<p>
+						78 Sunset Street, Suite 300
+<br>
+(713) 555-1234					</p>
+												<a href="#">
+									Get directions
+					</a>
+									<h5>
+							Chicago, IL						
+					</h5>
+									<p>
+						341 Green Street, Suite 756
+<br>
+(323) 555-5678					</p>
+												<a href="#">
+									Get directions
+					</a>
+			<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=London%20Eye%2C%20London%2C%20United%20Kingdom&#038;t=m&#038;z=10&#038;output=embed&#038;iwloc=near"
+					title="London Eye, London, United Kingdom"
+					aria-label="London Eye, London, United Kingdom"
+			></iframe>
