@@ -31,7 +31,7 @@ CREATE TABLE `wp_usermeta` (
   PRIMARY KEY (`umeta_id`),
   KEY `user_id` (`user_id`),
   KEY `meta_key` (`meta_key`(191))
-) ENGINE=InnoDB AUTO_INCREMENT=18 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=23 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
@@ -58,7 +58,12 @@ INSERT INTO `wp_usermeta` VALUES
 (14,1,'dismissed_wp_pointers',''),
 (15,1,'show_welcome_panel','1'),
 (16,1,'session_tokens','a:1:{s:64:\"64869b13be9ef500f1440e772c5350b6015855f8b6dd2f31a24c279cbf119ff9\";a:4:{s:10:\"expiration\";i:1786390973;s:2:\"ip\";s:3:\"::1\";s:2:\"ua\";s:117:\"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36\";s:5:\"login\";i:1785181373;}}'),
-(17,1,'wp_dashboard_quick_press_last_post_id','5');
+(17,1,'wp_dashboard_quick_press_last_post_id','5'),
+(18,1,'wp_persisted_preferences','a:3:{s:4:\"core\";a:1:{s:26:\"isComplementaryAreaVisible\";b:1;}s:14:\"core/edit-post\";a:1:{s:12:\"welcomeGuide\";b:0;}s:9:\"_modified\";s:24:\"2026-07-27T21:25:13.854Z\";}'),
+(19,1,'elementor_preferences','a:2:{s:8:\"ui_theme\";s:4:\"dark\";s:24:\"show_launchpad_checklist\";s:0:\"\";}'),
+(20,1,'elementor_introduction','a:1:{s:20:\"globals_introduction\";b:1;}'),
+(21,1,'wp_user-settings','libraryContent=browse&editor=tinymce'),
+(22,1,'wp_user-settings-time','1785189595');
 /*!40000 ALTER TABLE `wp_usermeta` ENABLE KEYS */;
 UNLOCK TABLES;
 commit;
@@ -72,4 +77,4 @@ commit;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*M!100616 SET NOTE_VERBOSITY=@OLD_NOTE_VERBOSITY */;
 
--- Dump completed on 2026-07-27 16:12:24
+-- Dump completed on 2026-07-27 17:01:12
